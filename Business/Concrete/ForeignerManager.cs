@@ -7,16 +7,16 @@ public class ForeignerManager: IApplicantService
 {
     public void ApplyForMask(Citizen citizen)
     {
-        throw new NotImplementedException();
+        
     }
 
     public List<Citizen> GetList()
     {
-        throw new NotImplementedException();
+        return null;
     }
 
     public bool CheckCitizen(Citizen citizen)
     {
-        throw new NotImplementedException();
+        return false;
     }
 }
